@@ -1,4 +1,4 @@
-# Stackbars.js
+# StackBars
 Animated stacked bars percentage indicator jQuery plugin<br>
 jQuery Plugin for indicating percentage values with the option of clicking on each bar for selection purpose<br>
 build upon D3.js
