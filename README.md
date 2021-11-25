@@ -3,6 +3,8 @@ Animated stacked bars percentage indicator jQuery plugin<br>
 jQuery Plugin for indicating percentage values with the option of clicking on each bar for selection purpose<br>
 build upon D3.js
 
+![preview](https://raw.github.com/jpweinerdev/stackbars/intro.png)
+
 
 ## jQuery initialization and customization
 This plugin requires jQuery (&gt;= 1.8.x) and D3.js (&gt;= v5.4.0)<br>Font Awesome (4.4.x) is used for the handles inner icon symbols.
@@ -13,7 +15,7 @@ This plugin requires jQuery (&gt;= 1.8.x) and D3.js (&gt;= v5.4.0)<br>Font Aweso
 ```
 
 ## Minimal CSS settings
-```
+```html
 text {
 	fill: #777;
 	font-family: Helvetica, Arial;
@@ -27,7 +29,7 @@ text {
 ## jQuery initialization and customization
 This plugin requires jQuery (>= 1.8.x) and D3.js (&gt;= v5.4.0)
 
-```
+```javascript
 $("#indicator").stackbars({
 	data: [],
 	height: 48,
