@@ -3,7 +3,7 @@ Animated stacked bars percentage indicator jQuery plugin<br>
 jQuery Plugin for indicating percentage values with the option of clicking on each bar for selection purpose<br>
 build upon D3.js
 
-![preview](https://raw.github.com/jpweinerdev/stackbars/intro.png)
+![preview](https://github.com/jpweinerdev/stackbars/blob/main/intro.png)
 
 
 ## jQuery initialization and customization
